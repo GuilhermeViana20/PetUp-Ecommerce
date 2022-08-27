@@ -1,0 +1,188 @@
+<template>
+    <section class="section products-main">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="title text-center">
+                        <h2>Nossos Produtos</h2>
+                        <!-- <p>The best Online sales to shop these weekend</p> -->
+                    </div>
+                </div>
+            </div>
+    
+    
+        <div class="row">
+            <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5" >
+                <div class="product">
+                <div class="product-wrap">
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                </div>
+    
+                <span class="onsale">Promoção</span>
+                <div class="product-hover-overlay">
+                    <a href="#"><i class="bi bi-cart-fill"></i></a>
+                    <a href="#"><i class="bi bi-heart-fill"></i></a>
+                    </div>
+    
+                <div class="product-info">
+                    <h2 class="product-title h5 mb-0"><a href="#">Floral Kirby</a></h2>
+                    <span class="price">
+                        $329.10
+                    </span>
+                </div>
+            </div>
+            </div>
+    
+            <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5">
+            <div class="product">
+                <div class="product-wrap">
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                </div>
+    
+                <div class="product-hover-overlay">
+                    <a href="#"><i class="bi bi-cart-fill"></i></a>
+                    <a href="#"><i class="bi bi-heart-fill"></i></a>
+                    </div>
+                    
+                <div class="product-info">
+                    <h2 class="product-title h5 mb-0"><a href="#">Open knit switer</a></h2>
+                    <span class="price">
+                        $29.10
+                    </span>
+                </div>
+            </div>
+            </div>
+    
+            <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5" >
+            <div class="product">
+                <div class="product-wrap">
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                </div>
+    
+                <span class="onsale">Promoção</span>
+                <div class="product-hover-overlay">
+                    <a href="#"><i class="bi bi-cart-fill"></i></a>
+                    <a href="#"><i class="bi bi-heart-fill"></i></a>
+                    </div>
+    
+                <div class="product-info">
+                    <h2 class="product-title h5 mb-0"><a href="#">Official trendy</a></h2>
+                    <span class="price">
+                        $350.00 – $355.00
+                    </span>
+                </div>
+            </div>
+            </div>
+    
+            <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5">
+            <div class="product">
+                <div class="product-wrap">
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                </div>
+    
+                <div class="product-hover-overlay">
+                    <a href="#"><i class="bi bi-cart-fill"></i></a>
+                    <a href="#"><i class="bi bi-heart-fill"></i></a>
+                    </div>
+    
+                <div class="product-info">
+                    <h2 class="product-title h5 mb-0"><a href="#">Frock short</a></h2>
+                    <span class="price">
+                        $249
+                    </span>
+                </div>
+            </div>
+            </div>
+    
+            <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5">
+            <div class="product">
+                <div class="product-wrap">
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                </div>
+    
+                <div class="product-hover-overlay">
+                    <a href="#"><i class="bi bi-cart-fill"></i></a>
+                    <a href="#"><i class="bi bi-heart-fill"></i></a>
+                    </div>
+    
+                <div class="product-info">
+                    <h2 class="product-title h5 mb-0"><a href="#">Sleeve dress</a></h2>
+                    <span class="price">
+                        $59.10
+                    </span>
+                </div>
+            </div>
+            </div>
+    
+            <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5" >
+            <div class="product">
+                <div class="product-wrap">
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                </div>
+    
+                <div class="product-hover-overlay">
+                    <a href="#"><i class="bi bi-cart-fill"></i></a>
+                    <a href="#"><i class="bi bi-heart-fill"></i></a>
+                    </div>
+    
+                <div class="product-info">
+                    <h2 class="product-title h5 mb-0"><a href="#">Stylish dress</a></h2>
+                    <span class="price">
+                        $99.00
+                    </span>
+                </div>
+            </div>
+            </div>
+    
+            <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5 " >
+            <div class="product">
+                <div class="product-wrap">
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                </div>
+    
+                <div class="product-hover-overlay">
+                    <a href="#"><i class="bi bi-cart-fill"></i></a>
+                    <a href="#"><i class="bi bi-heart-fill"></i></a>
+                    </div>
+    
+                <div class="product-info">
+                    <h2 class="product-title h5 mb-0"><a href="#">Body suite</a></h2>
+                    <span class="price">
+                        $329.10
+                    </span>
+                </div>
+            </div>
+            </div>
+    
+        <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5 " >
+            <div class="product">
+                <div class="product-wrap">
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                    <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+                </div>
+    
+                <div class="product-hover-overlay">
+                    <a href="#"><i class="bi bi-cart-fill"></i></a>
+                    <a href="#"><i class="bi bi-heart-fill"></i></a>
+                    </div>
+    
+                <div class="product-info">
+                    <h2 class="product-title h5 mb-0"><a href="#">Sleeve linen shirt</a></h2>
+                    <span class="price">
+                        <del>60<pre wp-pre-tag-5=""></pre></del>
+                        $50.10
+                    </span>
+                </div>
+            </div>
+            </div>
+        </div>
+        </div>
+    </section>
+</template>
