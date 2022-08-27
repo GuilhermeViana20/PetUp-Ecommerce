@@ -52,8 +52,8 @@
 					<div class="row justify-content-center">
 						<div class="col-lg-8">
 							<div class="title text-center">
-								<h2>New arrivals</h2>
-								<p>The best Online sales to shop these weekend</p>
+								<h2>Produtos Recomendados</h2>
+								<!-- <p>The best Online sales to shop these weekend</p> -->
 							</div>
 						</div>
 					</div>
@@ -63,11 +63,11 @@
 					<div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5" >
 						<div class="product">
 						<div class="product-wrap">
-							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/322.jpg" alt="product-img" /></a>
-							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/444.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
 						</div>
 			
-						<span class="onsale">Sale</span>
+						<span class="onsale">Promoção</span>
 						<div class="product-hover-overlay">
 							<a href="#"><i class="bi bi-cart-fill"></i></a>
 							<a href="#"><i class="bi bi-heart-fill"></i></a>
@@ -85,8 +85,8 @@
 					<div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5">
 					<div class="product">
 						<div class="product-wrap">
-							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/111.jpg" alt="product-img" /></a>
-							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/444.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
 						</div>
 			
 						<div class="product-hover-overlay">
@@ -106,11 +106,11 @@
 					<div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5" >
 					<div class="product">
 						<div class="product-wrap">
-							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/222.jpg" alt="product-img" /></a>
-							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/322.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
 						</div>
 			
-						<span class="onsale">Sale</span>
+						<span class="onsale">Promoção</span>
 						<div class="product-hover-overlay">
 							<a href="#"><i class="bi bi-cart-fill"></i></a>
 							<a href="#"><i class="bi bi-heart-fill"></i></a>
@@ -128,8 +128,8 @@
 					<div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5">
 					<div class="product">
 						<div class="product-wrap">
-							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/322.jpg" alt="product-img" /></a>
-							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/111.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
 						</div>
 			
 						<div class="product-hover-overlay">
@@ -149,8 +149,8 @@
 					<div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5">
 					<div class="product">
 						<div class="product-wrap">
-							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/444.jpg" alt="product-img" /></a>
-							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/222.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
 						</div>
 			
 						<div class="product-hover-overlay">
@@ -170,8 +170,8 @@
 					<div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5" >
 					<div class="product">
 						<div class="product-wrap">
-							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/322.jpg" alt="product-img" /></a>
-							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/222.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
 						</div>
 			
 						<div class="product-hover-overlay">
@@ -191,8 +191,8 @@
 					<div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5 " >
 					<div class="product">
 						<div class="product-wrap">
-							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/111.jpg" alt="product-img" /></a>
-							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/444.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
 						</div>
 			
 						<div class="product-hover-overlay">
@@ -212,8 +212,8 @@
 				<div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5 " >
 					<div class="product">
 						<div class="product-wrap">
-							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/222.jpg" alt="product-img" /></a>
-							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/322.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-first" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
+							<a href="#"><img class="img-fluid w-100 mb-3 img-second" src="@/assets/images/ecommerce/racao.jpg" alt="product-img" /></a>
 						</div>
 			
 						<div class="product-hover-overlay">
@@ -236,20 +236,20 @@
 			<!-- /portfolio -->
 
 			<section class="ads section">
-			<div class="container">
-				<div class="row align-items-center">
-				<div class="col-lg-6 offset-lg-6">
-					<div class="ads-content">
-					<span class="h5 deal">Deal of the day 50% Off</span>
-					<h2 class="mt-3 text-white">Trendy Suit</h2>
-					<p class="text-md mt-3 text-white">Hurry up! Limited time offer.Grab ot now!</p>
-					<!-- syo-timer -->
-						<div id="simple-timer" class="syotimer mb-5"></div>
-					<a href="#" class="btn btn-main"><i class="ti-bag mr-2"></i>Shop Now </a>
+				<div class="container">
+					<div class="row align-items-center">
+						<div class="col-lg-6 offset-lg-6">
+							<!-- <div class="ads-content"> -->
+								<span class="h5 deal">Deal of the day 50% Off</span>
+								<h2 class="mt-3 text-white">Trendy Suit</h2>
+								<p class="text-md mt-3 text-white">Hurry up! Limited time offer.Grab ot now!</p>
+								<!-- syo-timer -->
+									<div id="simple-timer" class="syotimer mb-5"></div>
+								<a href="#" class="btn btn-main"><i class="ti-bag mr-2"></i>Shop Now </a>
+							<!-- </div> -->
+						</div>
 					</div>
 				</div>
-				</div>
-			</div>
 			</section>
 
 			<section class="section products-list">
