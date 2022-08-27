@@ -1818,7 +1818,7 @@ a.text-primary:hover {
 
 .ads {
   background: rgba(252, 114, 104, 0.06);
-  background: url("@/assets/images/ecommerce/counter.jpg") no-repeat;
+  background: url("@/assets/images/ecommerce/promocao.jpg") no-repeat;
   background-size: cover;
   position: relative;
 }
