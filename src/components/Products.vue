@@ -27,11 +27,15 @@
                         <div class="product-info">
                             <h2 class="product-title h5 mb-0"><a href="#">{{product.name}}</a></h2>
                             <span class="price">
-                                R$ {{product.price}}
+                                {{ $filters.price(product.price) }}
                             </span>
                         </div>
                     </div>
                 </div>
+            </div>
+
+            <div class="row justify-content-center">
+                <button class="btn btn-main col-3">Ver mais produtos</button>
             </div>
         </div>
     </section>
@@ -56,7 +60,6 @@
                 axios.get("http://127.0.0.1:8000/api/products")
                     .then((res) => {
                         this.products = res.data;
-                        console.log(this.products)
                     })
                     .catch((error) => {
                         console.log(error);
