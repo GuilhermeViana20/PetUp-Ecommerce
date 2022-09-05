@@ -26,9 +26,15 @@
             
                         <div class="product-info">
                             <h2 class="product-title h5 mb-0"><a href="#">{{product.name}}</a></h2>
-                            <span class="price">
-                                {{ $filters.price(product.price) }}
-                            </span>
+
+                            <div v-if="product.in_promotion">
+                                <span class="price price_promotional">{{ $filters.price(product.promotional_price) }}</span>
+                                <span class="price">{{ ' ' + $filters.price(product.price) }} </span>
+                            </div>
+
+                            <div v-else>
+                                <span class="price">{{ $filters.price(product.price) }} </span>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -57,7 +63,7 @@
 
         methods: {
             getProducts() {
-                axios.get("http://127.0.0.1:8000/api/products")
+                axios.get("http://127.0.0.1:8000/api/products/all")
                     .then((res) => {
                         this.products = res.data;
                     })

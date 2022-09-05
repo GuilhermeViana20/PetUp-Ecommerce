@@ -189,14 +189,14 @@ import Categories from '../components/Categories.vue';
 import Ads from '../components/Ads.vue';
 
 export default {
-  name: 'Home',
-  components: {
-    Navbar,
-    Footer,
-    Slide,
-    Products,
-    Categories,
-    Ads
-}
+	name: 'Home',
+	components: {
+		Navbar,
+		Footer,
+		Slide,
+		Products,
+		Categories,
+		Ads
+	}
 }
 </script>

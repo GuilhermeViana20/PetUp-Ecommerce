@@ -1079,6 +1079,12 @@ a.text-primary:hover {
   font-family: "Source Sans Pro", sans-serif;
 }
 
+.product-info .price_promotional {
+  color: red;
+  font-size: 16px !important;
+  text-decoration: line-through;
+}
+
 .product-info del {
   margin-right: 8px;
 }
