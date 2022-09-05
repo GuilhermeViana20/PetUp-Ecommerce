@@ -41,7 +41,7 @@
             </div>
 
             <div class="row justify-content-center">
-                <button class="btn btn-main col-3">Ver mais produtos</button>
+                <router-link to="/products" class="btn btn-main col-3">Ver mais produtos</router-link>
             </div>
         </div>
     </section>
