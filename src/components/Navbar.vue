@@ -1,153 +1,80 @@
 <template>
-	<nav class="navbar navbar-expand-lg navbar-light bg-white w-100 navigation" id="navbar">
-		<div class="container">
-			<a class="navbar-brand font-weight-bold" href="#">
-				<img src="@/assets/logo.png" width="50" alt="">
-			</a>
-		
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar"
-				aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon"></span>
-			</button>
+	<section id="header">
+		<a href="#"><img src="@/assets/img/logo.png" class="logo" alt=""></a>
 
-			<div class="collapse navbar-collapse " id="main-navbar">
-				<ul class="navbar-nav mx-auto">
-				<li class="nav-item active">
-					<a class="nav-link" href="#">Cachorros </a>
-				</li>
-		
-				<li class="nav-item">
-					<a class="nav-link" href="#">Gatos</a>
-				</li>
-
-				<li class="nav-item">
-					<a class="nav-link" href="#">Pássaros</a>
-				</li>
-
-				<li class="nav-item">
-					<a class="nav-link" href="#">Peixes</a>
-				</li>
-
-				<li class="nav-item">
-					<a class="nav-link" href="#">Outros Pets</a>
-				</li>
-
-				<li class="nav-item">
-					<a class="nav-link" href="#">Casa e Jardim</a>
-				</li>
-
-				<!-- <li class="nav-item dropdown dropdown-slide">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4" role="button" data-delay="350"
-					data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					Pages.
-					</a>
-					<ul class="dropdown-menu" aria-labelledby="navbarDropdown4">
-					<li><a href="#">About Us</a></li>
-					<li><a href="#">Blog</a></li>
-					<li><a href="#">Blog Single</a></li>
-					<li><a href="#">Contact</a></li>
-					<li><a href="#">404 Page</a></li>
-					<li><a href="#">FAQ</a></li>
-					</ul>
-				</li>
-		
-				<li class="nav-item dropdown dropdown-slide">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-delay="350"
-					data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					Shop.
-					</a>
-					<ul class="dropdown-menu" aria-labelledby="navbarDropdown3">
-					<li><a href="#">Shop</a></li>
-					<li><a href="#">Product Details</a></li>
-					<li><a href="#">Checkout</a></li>
-					<li><a href="#">Cart</a></li>
-					<li><a href="#">Confirmation</a></li>
-					</ul>
-				</li>
-		
-				<li class="nav-item dropdown dropdown-slide">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown5" role="button" data-delay="350"
-					data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					Account.
-					</a>
-					<ul class="dropdown-menu" aria-labelledby="navbarDropdown5">
-					<li><a href="#">Dahsboard</a></li>
-					<li><a href="#">Orders</a></li>
-					<li><a href="#">Downloads</a></li>
-					<li><a href="#">Address</a></li>
-					<li><a href="#">Profile Details</a></li>
-					<li><a href="#">Login Page</a></li>
-					<li><a href="#">SignUp Page</a></li>
-					<li><a href="#">Forgot Password</a></li>
-					</ul>
-				</li>
-		
-				<li class="nav-item">
-					<a class="nav-link" href="#">Contact Us</a>
-				</li> -->
-				</ul>
-			</div>
-
-			<!-- Navbar-collapse -->
-			<ul class="top-menu list-inline mb-0 d-none d-lg-block" id="top-menu">
-				<li class="list-inline-item">
-					<a href="#" class="search_toggle" id="search-icon"><i class="bi bi-search"></i></a>
-				</li>
-		
-				<li class="dropdown cart-nav dropdown-slide list-inline-item">
-					<a href="#" class="dropdown-toggle cart-icon" data-toggle="dropdown" data-hover="dropdown">
-						<i class="bi bi-cart"></i>
-					</a>
-					<div class="dropdown-menu cart-dropdown">
-						<!-- Cart Item -->
-						<div class="media">
-							<a href="#">
-								<img class="media-object img- mr-3" src="@/assets/images/ecommerce/cart-1.jpg" alt="image" />
-							</a>
-							<div class="media-body">
-								<h6>Ladies Bag</h6>
-								<div class="cart-price">
-									<span>1 x</span>
-									<span>1250.00</span>
-								</div>
-							</div>
-							<a href="#" class="remove"><i class="bi bi-x"></i></a>
-						</div><!-- / Cart Item -->
-			
-						<!-- Cart Item -->
-						<div class="media">
-							<a href="#">
-								<img class="media-object img-fluid mr-3" src="@/assets/images/ecommerce/cart-2.jpg" alt="image" />
-							</a>
-							<div class="media-body">
-								<h6>Skinny Jeans</h6>
-								<div class="cart-price">
-									<span>1 x</span>
-									<span>1250.00</span>
-								</div>
-							</div>
-							<a href="#" class="remove"><i class="bi bi-x"></i></a>
-						</div><!-- / Cart Item -->
-			
-						<div class="cart-summary">
-							<span class="h6">Total</span>
-							<span class="total-price h6">$1799.00</span>
-				
-							<div class="text-center cart-buttons mt-3">
-								<a href="#" class="btn btn-small btn-transparent btn-block">Ir ao carrinho</a>
-								<a href="#" class="btn btn-small btn-main btn-block">Finalizar</a>
-							</div>
-						</div>
-					</div>
-				</li>
-				<li class="list-inline-item">
-					<a href="#">
-						<i class="bi bi-person"></i>
-					</a>
-				</li>
+		<div>
+			<ul id="navbar">
+				<li><a class="active" href="index.html">Home</a></li>
+				<li><a href="shop.html">Loja</a></li>
+				<li><a href="blog.html">Notícias</a></li>
+				<li><a href="about.html">Sobre</a></li>
+				<li><a href="contact.html">Contato</a></li>
+				<li><a href="cart.html"><i class="far fa-shopping-bag"></i></a></li>
 			</ul>
 		</div>
-	</nav>
+	</section>
 </template>
 
-<script></script>
+<script>
+export default {
+	name: 'Home',
+	data () {
+		return {
+			userLogged: false
+		};
+	},
+}
+</script>
+
+<style scoped>
+
+	#header {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		padding: 20px 80px;
+		background: #E3E6F3;
+		box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+		z-index: 999;
+		position: sticky;
+		top: 0;
+		left: 0;
+	}
+
+	#navbar {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	#navbar li {
+		list-style: none;
+		padding: 0 20px;
+		position: relative;
+	}
+
+	#navbar li a {
+		text-decoration: none;
+		font-size: 16px;
+		font-weight: 600;
+		color: #1a1a1a;
+		transition: 0.3s ease;
+	}
+
+	#navbar li a:hover,
+	#navbar li a.active {
+		color: #088178;
+	}
+
+	#navbar li a.active::after,
+	#navbar li a:hover::after {
+		content: "";
+		width: 30%;
+		height: 2px;
+		background: #088178;
+		position: absolute;
+		bottom: -4px;
+		left: 20px;
+	}
+
+</style>

@@ -2,8 +2,7 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import './registerServiceWorker'
 import router from './router'
-import './assets/css/bootstrap-icons.css'
-import './assets/css/style.css'
+import './assets/css/style.scss'
 
 const filters = {
 	price(input) {
